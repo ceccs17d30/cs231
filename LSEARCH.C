@@ -1,3 +1,7 @@
+/*Johan Sam Thomas
+  S3 D 30
+  Linear Search*/
+
 #include<stdio.h>
 #include<conio.h>
 void main()
