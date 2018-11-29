@@ -1,3 +1,7 @@
+/*Johan Sam Thomas
+  S3 D 30
+  Representation of Arithmetic Expressions Using Linked List*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
