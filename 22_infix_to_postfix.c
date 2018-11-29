@@ -1,3 +1,7 @@
+/*Johan Sam Thomas
+  S3 D 30
+  Infix to Postfix*/
+
 #include <stdio.h>
 
 int instackPriority(char symbol) {
