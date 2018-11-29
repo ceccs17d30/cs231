@@ -1,3 +1,7 @@
+/*Johan Sam Thomas
+  S3 D 30
+  Multiple Stack Using Array*/
+
 #include <stdio.h>
 #define size 100
 
