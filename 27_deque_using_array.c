@@ -1,3 +1,7 @@
+/*Johan Sam Thomas
+  S3 D 30
+  Deque Using Array*/
+
 #include <stdio.h>
 
 int queue[100], n=100, front=-1, rear=-1;
