@@ -1,3 +1,7 @@
+/*Johan Sam Thomas
+  S3 D 30
+  Circular Queue Using Array*/
+
 #include <stdio.h>
 #define size 10
 int queue[size], front, rear;
