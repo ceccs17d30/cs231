@@ -1,3 +1,7 @@
+/*Johan Sam Thomas
+  S3 D 30
+  Polynomial Addition*/
+
 #include <stdio.h>
 #include <stdlib.h>
 struct node {
