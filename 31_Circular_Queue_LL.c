@@ -1,6 +1,6 @@
-//Johan Sam Thomas
-//S3-D
-//30
+/*Johan Sam Thomas
+  S3 D 30
+  Circular Queue Using Linked List*/
 
 #include<stdio.h>
 #include<stdlib.h>
