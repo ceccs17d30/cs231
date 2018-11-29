@@ -1,6 +1,6 @@
-//Johan Sam Thomas
-//S3-D
-//30
+/*Johan Sam Thomas
+  S3 D 30
+  Binary Search Tree Operation Using Linked List*/
 
 //source code...
 #include<stdio.h>
