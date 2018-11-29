@@ -1,3 +1,7 @@
+/*Johan Sam Thomas
+  S3 D 30
+  Postfix Expression Evaluation*/
+
 #include <stdio.h>
 #include <stdlib.h>
 int power(int base, int exponent) {
