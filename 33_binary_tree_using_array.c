@@ -1,3 +1,7 @@
+/*Johan Sam Thomas
+  S3 D 30
+  Binary Tree Using Array*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
