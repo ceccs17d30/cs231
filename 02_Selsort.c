@@ -1,4 +1,4 @@
-*******/*Johan Sam Thomas
+/*Johan Sam Thomas
   S3 D 30
   Selection Sort*/
 
