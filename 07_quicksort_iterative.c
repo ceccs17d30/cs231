@@ -1,3 +1,7 @@
+/*Johan Sam Thomas
+  S3 D 30
+  Iterative Quick Sort*/
+
 #include <stdio.h>
 
 void swap(int *a, int *b) {
