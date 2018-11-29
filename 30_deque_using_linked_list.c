@@ -1,3 +1,7 @@
+/*Johan Sam Thomas
+  S3 D 30
+  Deque Using Linked List*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
